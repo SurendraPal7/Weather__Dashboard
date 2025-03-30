@@ -34,8 +34,10 @@ A *React.js-based Weather Dashboard that provides real-time weather updates for 
 ### 1️⃣ Clone the Repository  
 ```sh
 git clone https://github.com/your-username/weather-dashboard.git
+
+```sh
 cd weather-dashboard
-⿢ Install Dependencies
+## Install Dependencies
 
 npm install
 
