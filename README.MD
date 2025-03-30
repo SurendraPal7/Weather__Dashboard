@@ -27,3 +27,12 @@ A *React.js-based Weather Dashboard that provides real-time weather updates for 
 ```sh
 git clone https://github.com/your-username/weather-dashboard.git
 cd weather-dashboard
+1. Install  Dependencies
+npm install
+2. Get Your OpenWeatherMap
+    . Signup up at OpenWea
+
+
+
+
+
